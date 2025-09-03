@@ -39,6 +39,9 @@ I love bringing ideas to life through code! Here are some of my recent projects 
 
 I've actively participated in virtual internships to gain practical experience:
 
+   **Bala Vikasa** Center for Social and Responsible Business - BV-CSRB:-
+   Working as an co member between enterprises and CSRB team helping enterpreneurs startups by suggestion and working as a bridge 
+
 -   **AI/ML Intern** @ Oasis Infobyte (AICTE)
 -   **Intern** @ CodeAlpha
 -   **Intern** @ YBI Foundation
@@ -52,7 +55,7 @@ Beyond coding, I believe in teamwork and leadership:
 -   **Core Member**, Aikyam Sports Club – Managed university sports events.
 
 ### **Awards & Recognition**
-
+    Supervised Learning Certificate by Stanford University 
 -   Silver Medal – Cricket Captain (University Level)
 -   Bronze Medal – IIC Startup Contest
 -   IIC Event Management Certificate
