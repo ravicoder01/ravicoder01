@@ -83,7 +83,7 @@ ravi = {
 - 🥉 **Bronze Medal** — IIC Startup Contest (2025)
 - 🎓 **Machine Learning Specialization** — DeepLearning.ai (Andrew Ng), Coursera
 - ☁️ **Google Cloud Skill Boost** — Responsible AI, LLMs, Generative AI
-- 🔥 **LeetCode** — 50 & 100 Day Streak Badges (2025)
+- 🔥 **LeetCode** — 50 & 100 Days Streak Badges (2025)
 
 ---
 
