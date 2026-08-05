@@ -74,7 +74,6 @@ I'm a final-year **B.Tech CSE (AI & ML)** student (CGPA: **8.55/10**) building p
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravicoder01&show_icons=true&theme=default&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravicoder01" height="165"/>
 </p>
 
 <p align="center">
