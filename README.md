@@ -1,123 +1,95 @@
-<div align="center">
+<h1 align="center">Hi, I'm Ravi Raj 👋</h1>
+<h3 align="center">AI Developer Intern @ Stanza AI (L-VelUp Edulab FZCO) | GenAI & RAG Engineer | Final-Year B.Tech CSE (AI&ML)</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200§ion=header&text=Ravi%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Open%20Source&descAlignY=58&descSize=18" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+%7C+CGPA+8.9;Building+End-to-End+ML+Pipelines;TensorFlow+%7C+Keras+%7C+Scikit-learn;113+LeetCode+Problems+Solved+%F0%9F%94%A5;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-raj-03226b240/)
-[![GitHub](https://img.shields.io/badge/GitHub-ravicoder01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravicoder01)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Ravi__Roy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ravi_Roy/)
-[![Email](https://img.shields.io/badge/Email-raviroy2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raviroy2002@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravi-raj-03226b240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:raviroy2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ravicoder01&style=flat&color=blue" alt="profile views"/>
+</p>
 
 ---
 
-## 🧠 About Me
+### 🚀 About Me
 
-```python
-ravi = {
-    "degree"    : "B.Tech CSE (AI & ML) — IILM University, Greater Noida",
-    "cgpa"      : 8.9,
-    "focus"     : ["Machine Learning", "Deep Learning", "MLOps"],
-    "currently" : "Building ML projects & hunting internships 🎯",
-    "fun_fact"  : "I debug faster with music on 🎧"
-}
-```
+I'm a final-year **B.Tech CSE (AI & ML)** student (CGPA: **8.55/10**) building production-grade **GenAI, RAG, and multi-agent systems**. Currently working as an **AI Developer Intern** on **Stanza AI**, an AI layer for a hospitality operations platform — fine-tuning proprietary LLMs (LoRA/QLoRA) to cut dependency on external APIs, across dataset strategy, evaluation, and agent orchestration.
+
+- 🔭 Building **agentic RAG pipelines** with LangGraph, LangChain, and FAISS
+- 🧠 Fine-tuning LLMs with **LoRA/QLoRA**, exploring proprietary model development
+- 🌱 Currently deep in **LangGraph** (MemorySaver, thread/session state, streaming) via a Gen AI course
+- 🏆 Bronze Medalist, IIC 2025 | GSSoC 2025 & 2026 Contributor
+- 📫 Reach me at **raviroy2002@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+### 🌟 Featured Project — LegalEase (Agentic RAG Legal Assistant)
 
-**Languages**
+> An end-to-end **Agentic RAG system** over Indian legal acts (POCSO, RTI, Consumer Protection Act 2019) — zero manual curation, fully automated ingestion to deployment.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-
-**ML / DL Frameworks**
-
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)
-[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
-
-**Web & Deployment**
-
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
-
-**Tools**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com)
+- ⚙️ **LangGraph agentic RAG** with tool-based FAISS retrieval (top-4 chunks), `MemorySaver` conversational memory, and automatic topic routing across 3 legal acts
+- 📚 309 FAISS vectors from HuggingFace `all-MiniLM-L6-v2` embeddings over cleaned, chunked legal PDFs
+- 🤖 3 automated output modes via **Groq LLaMA 3.3-70B**: 250-word summaries, structured JSON key-info extraction, and gTTS audio generation
+- 🐛 Resolved 5 production bugs (encoding, JSON fencing, FAISS metadata filtering, Groq tool-call/streaming conflicts, session config injection)
+- 🔗 **[GitHub](https://github.com/ravicoder01/Mini-legalx-knowledge-AI-centre)** · **[Live Demo](https://mini-legalx-knowledge-ai-centre-apph3msmdhladvyyhjbptkv.streamlit.app/)**
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Other Projects
 
-| Project | Description | Tech | Links |
-|--------|-------------|------|-------|
-| 🧠 **Customer Churn Prediction** | ANN model on 10K+ records — 86% accuracy | TensorFlow, Keras, Streamlit | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ravicoder01/ANN-churn-prediction) [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit)](https://ann-churn-prediction-cbowphjase53yxwriuzcso.streamlit.app/) |
-| 💳 **Credit Card Fraud Detection** | 284K transactions, 91% Recall — extreme imbalance handled | Scikit-learn, SMOTE, Pandas | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ravicoder01) |
-| ❤️ **Heart Disease Prediction** | End-to-end ML web app — 87.5% accuracy | Flask, Random Forest, Render | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ravicoder01) [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat&logo=render)](https://heart-disease-prediction-2o96.onrender.com) |
-| 🛍️ **Customer Segmentation** | K-Means clustering — 5 segments from 200 customers | K-Means, Elbow Method, Seaborn | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ravicoder01) [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat&logo=render)](https://customer-segmentation-dashboard-yiua.onrender.com) |
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🌟 **GirlScript Summer of Code 2025** — Open Source Contributor
-- 🥉 **Bronze Medal** — IIC Startup Contest (2025)
-- 🎓 **Machine Learning Specialization** — DeepLearning.ai (Andrew Ng), Coursera
-- ☁️ **Google Cloud Skill Boost** — Responsible AI, LLMs, Generative AI
-- 🔥 **LeetCode** — 50 & 100 Days Streak Badges (2025)
+| Project | Description | Links |
+|---|---|---|
+| **Sentiment Analysis (RNN/LSTM)** | NLP pipeline on 50K IMDB reviews, ~76% test accuracy | [GitHub](https://github.com/ravicoder01/Sentiment-Analysis) · [Live](https://sentiment-analysis-3pcy8vhomecrfbnmpjmgqq.streamlit.app/) |
+| **Customer Churn Prediction (ANN)** | Deep learning model on 10K+ records, 86% accuracy, TensorBoard-monitored | [GitHub](https://github.com/ravicoder01/ANN-churn-prediction) · [Live](https://ann-churn-prediction-cbowphjase53yxwriuzcso.streamlit.app/) |
+| **Customer Segmentation** | Segmentation dashboard deployed on Render | [GitHub](https://github.com/ravicoder01/Customer_Segmentation) · [Live](https://customer-segmentation-dashboard-yiua.onrender.com/) |
+| **Heart Disease Prediction** | Classification model deployed on Render | [GitHub](https://github.com/ravicoder01/Heart_Disease_prediction) · [Live](https://heart-disease-prediction-2o96.onrender.com/) |
+| **Credit Card Fraud Detection** | XGBoost + SMOTE on 284K+ transactions, 91% recall on imbalanced data (not deployed) | [GitHub](https://github.com/ravicoder01/Credit-Card-Fraud-Detection) |
 
 ---
 
-## 💻 LeetCode Stats
+### 💻 Tech Stack
 
-<div align="center">
+**GenAI & RAG**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ravi_Roy?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Ravi_Roy/)
+**ML / DL**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-</div>
+**Deployment & Tools**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📊 Total | 🔥 Max Streak |
-|--------|----------|--------|---------|--------------|
-| 53 | 56 | 4 | **113 / 3893** | **65 Days** |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ravicoder01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravicoder01&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravicoder01&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
+**Languages**: Python · SQL · Java · C
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100§ion=footer" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravicoder01&show_icons=true&theme=default&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravicoder01" height="165"/>
+</p>
 
-⭐ *If you like my work, consider giving my repos a star!*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravicoder01&layout=compact" height="165"/>
+</p>
 
-</div>
+---
+
+### 🎓 Education & Certifications
+
+- **B.Tech, CSE (AI & ML)** — IILM University, Greater Noida (2023 – Jul 2027), CGPA: 8.55/10
+- ML Specialization — DeepLearning.AI
+- Apply AI & Modern AI — Cisco
+- Responsible AI, LLMs, GenAI — Google Cloud
+
+---
+
+<p align="center"><i>Open to GenAI / ML Engineering roles — let's connect!</i></p>
